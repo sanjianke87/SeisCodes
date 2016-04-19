@@ -1,4 +1,4 @@
-# SeisCode
+# SeisCodes
 
 This project contains code snippets for seismological researches.
 
