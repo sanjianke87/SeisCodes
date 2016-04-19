@@ -1,3 +1,5 @@
-# Collection of Codes for Seismological Researches
+# SeisCode
 
-This is the public version, containing codes without copyright issues.
+This project contains code snippets for seismological researches.
+
+- `distaz`: Calculate great circle arc distance and azimuth/back-azimuth between two geographic coordinates
